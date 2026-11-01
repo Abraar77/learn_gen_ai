@@ -1,0 +1,46 @@
+Absolutely. If you're limiting it to **13–14 inches** and want something **reliable, long-lasting, and suitable for coding/AI/ML**, I'd add **Lenovo, ASUS, Acer, and Samsung** to your list.
+
+Current 13–14" recommendations also strongly favor **16GB RAM or more** for heavier multitasking and development. [RTINGS.com](https://www.rtings.com/laptop/reviews/best/by-size/13-14-inch?utm_source=chatgpt.com)
+
+### My shortlist
+
+Lenovo Yoga Slim 7 14₹97,390·Lenovo + others
+
+ASUS Zenbook 14₹1,24,990·Amazon.in + others4.8
+
+Acer Swift Go 14₹88,999·Flipkart + others
+
+Lenovo Yoga Slim 7 14₹1,22,990·Vijay Sales + others4.8 (246)
+
+Acer Swift Go 14 AI₹89,990·Amazon.in5.0
+
+**1. Lenovo Yoga Slim 7 14 — ⭐ My Windows pick**  
+Excellent combination of build quality, portability, performance and battery life. The Ryzen AI 7/16GB/512GB configuration is currently around ₹97k.  
+
+**2. ASUS Zenbook 14 — ⭐ Best premium alternative**  
+Very good build, OLED options, lightweight, and excellent for programming. Current 16GB/512GB configurations are available around ₹1.25L. [TechRadar](https://www.techradar.com/computing/windows-laptops/asus-zenbook-14-2026-review?utm_source=chatgpt.com)
+
+**3. Acer Swift Go 14 — ⭐ Best value**  
+This is the one I'd seriously consider if you don't want to spend ₹1 lakh+. Acer currently lists 14" Swift models with **16GB RAM + 512GB SSD** and Core Ultra processors, with some official-store pricing around ₹75–80k. [Acer Store](https://store.acer.com/en-in/ai-powered-laptops/memory_standard-16_gb_ram?utm_source=chatgpt.com)
+
+**4. Samsung Galaxy Book 14**  
+Worth considering if you want a premium, lightweight Windows laptop. Samsung's higher-end Galaxy Books are particularly nice for portability.
+
+**5. Framework Laptop 13 — ⭐ Best for longevity/upgradability**  
+This is an interesting option if you want to keep the laptop for many years because its components are designed to be replaceable/upgradable. It's particularly appealing for developers. Current 13-inch recommendations also highlight Framework's upgradeability. [Tom's Guide](https://www.tomsguide.com/best-picks/best-13-inch-laptops?utm_source=chatgpt.com)
+
+### If I were buying for YOU
+
+I'd rank the brands/models:
+
+**🥇 Apple MacBook Air 13 — M4/M5, 16GB/512GB**  
+**🥈 Lenovo Yoga Slim 7 14 — 16GB/512GB or 1TB**  
+**🥉 ASUS Zenbook 14 — 16GB/512GB**  
+**4️⃣ Dell XPS 13 — 16GB/512GB**  
+**5️⃣ Acer Swift Go 14 — 16GB/512GB**  
+**6️⃣ HP OmniBook 14 — 16GB/512GB**  
+**7️⃣ Samsung Galaxy Book 14**
+
+For **your AI/ML learning + software development**, I'd specifically avoid buying an 8GB machine just to save money. **16GB is the minimum; 32GB is ideal** if you're going to run Docker, VS Code, browsers, Python environments, local LLMs, etc.
+
+One caveat: if **local AI/ML training** is your priority rather than learning/development/cloud-based ML, I'd change the recommendations considerably and look for a **14" laptop with an NVIDIA RTX GPU**.

@@ -1,0 +1,26 @@
+# Environment files and backups
+.env
+.env.*
+.env_*
+**/.env
+**/.env.*
+**/.env_*
+
+# VS Code local history
+.history/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local vector databases
+chroma_db/
+my_chroma_db/
